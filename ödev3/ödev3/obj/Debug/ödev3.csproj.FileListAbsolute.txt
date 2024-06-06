@@ -1,0 +1,11 @@
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.Form1.resources
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.Properties.Resources.resources
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.GenerateResource.cache
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\ödev3\ödev3\bin\Debug\ödev3.exe.config
+C:\Users\dilan\source\repos\ödev3\ödev3\bin\Debug\ödev3.exe
+C:\Users\dilan\source\repos\ödev3\ödev3\bin\Debug\ödev3.pdb
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.exe
+C:\Users\dilan\source\repos\ödev3\ödev3\obj\Debug\ödev3.pdb
